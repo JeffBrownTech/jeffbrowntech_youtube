@@ -37,7 +37,7 @@ Rename-Item -Path errors.log -NewName errors-archived.log
 Rename-Item errors.log errors-archived.log
 
 # Define array with values in the correct positions
-$argArray = "errors.log", "errors-archived.log"
+$argArray = "C:\temp\errors.log", "C:\temp\errors-archived.log"
  
 # Call the command using the splatted value
 Rename-Item @argArray
