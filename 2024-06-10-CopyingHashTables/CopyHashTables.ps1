@@ -44,6 +44,8 @@ $person3.Add('City', 'Seattle')
 $person3
 $person1
 
+[System.Object]::ReferenceEquals($person1, $person3)
+
 # Copy a hash table using foreach
 $person4 = @{}
 
@@ -52,3 +54,5 @@ foreach($key in $person1.Keys) {
 }
 
 $person4["County"] = "King"
+
+[System.Object]::ReferenceEquals($person1, $person4)
