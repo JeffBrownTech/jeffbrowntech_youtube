@@ -1,0 +1,17 @@
+INFO: The app did something.
+INFO: The app did something.
+WARN: The app encountered a warning.
+INFO: The app did something.
+INFO: The app did something.
+WARN: The app encountered a warning.
+INFO: The app did something.
+INFO: The app did something.
+ERROR: The app encountered an error.
+INFO: The app did something.
+INFO: The app did something.
+WARN: The app encountered a warning.
+INFO: The app did something.
+INFO: The app did something.
+ERROR: The app encountered an error.
+INFO: The app did something.
+WARN: The app encountered a warning.
