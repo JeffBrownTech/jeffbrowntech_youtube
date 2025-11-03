@@ -4,6 +4,4 @@
 
 Social Links:<br>
 🔗 LinkedIn: [Jeff Brown Tech](https://www.linkedin.com/jeffbrowntech)<br>
-🔗 X: [@JeffWBrown](https://www.twitter.com/jeffwbrown)<br>
-🔗 Threads: [@JeffBrownTech](https://www.threads.net/@jeffbrowntech)<br>
-🔗 Mastodon: [@JeffBrownTech](https://mastodon.social/@JeffBrownTech)<br>
+🔗 Bluesky: [@JeffBrownTech](https://bsky.app/profile/jeffbrowntech.bsky.social)<br>
