@@ -48,3 +48,7 @@ tfplan
 # Optional: ignore plan files saved before destroying Terraform configuration
 # Uncomment the line below if you want to ignore planout files.
 # planout
+
+# Other Files and Folders
+**/data
+**/files
