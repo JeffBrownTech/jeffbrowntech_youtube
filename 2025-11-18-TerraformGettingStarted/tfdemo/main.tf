@@ -59,6 +59,13 @@ output "pet_name" {
   value = random_pet.filename.id
 }
 
-output "integer" {
-  value = random_integer.integer.result
+module "project_hail_mary" {
+  source = "./modules/project_files"
+
+  name_prefix = "hailmary"
+  environment = "prod"
+}
+
+module "project_one" {
+  source = "./modules/project_files"
 }
